@@ -1,0 +1,32 @@
+#box {
+    background-color: peru;
+    height: 350px;
+    width: 700px;
+    visibility: visible; 
+    border-radius: 10px;
+
+}
+
+body {
+background-color: yellow
+
+}
+
+h3 {
+    margin-left: 15rem;
+}
+
+#cross {
+    cursor: pointer;
+    color: black;
+}
+
+.head {
+    align-items: center;
+    display: flex;
+    justify-content: space-between
+}
+
+#box.show {
+    visibility: visible;
+}
